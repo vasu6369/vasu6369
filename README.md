@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Cyberpunk Header" width="800" />
+<img src="./assets/hero-banner-v2.svg" alt="Cyberpunk Header" width="800" />
 
 ### SYSTEM STATUS: [ONLINE] // ACCESS GRANTED
 
