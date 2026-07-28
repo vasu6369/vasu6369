@@ -65,10 +65,10 @@
 
 ## 📡 RECENT TRANSMISSIONS
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!-- START_SECTION:content -->
-<!-- END_SECTION:content -->
+<!--START_SECTION:content-->
+<!--END_SECTION:content-->
 
 </div>
