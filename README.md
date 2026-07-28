@@ -66,6 +66,8 @@
 ## 📡 RECENT TRANSMISSIONS
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/vasu6369/portfolio/pull/1) in [vasu6369/portfolio](https://github.com/vasu6369/portfolio)
+2. 💪 Opened PR [#1](https://github.com/vasu6369/portfolio/pull/1) in [vasu6369/portfolio](https://github.com/vasu6369/portfolio)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:content-->
